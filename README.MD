@@ -3,8 +3,7 @@
 
 
   <h3 align="center">LilyGo-HiGrow MQTT</h3><p align="center">
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors) </p>
+
 
   <p align="center">
     T-Higrow ESP32 BME280 Firmware Update with MQTT, Deep Sleep Mode, and various bugfixes
