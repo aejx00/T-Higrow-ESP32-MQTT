@@ -76,7 +76,7 @@ uncomment variables -
 ## Homeassistant Usage (Optional)
 
 Add your current mqtt settings to home-assistant configuration. It should resemble something like this:
-![](image/ha_example.png)
+![](image/ha_example.PNG)
 
 ## Deepsleep Mode
 To enable deep-sleep, uncomment deep sleep lines in configuration, delete 'src' sketch contents, copy/paste contents of 'deep_sleep' sketch into empty 'src' file and upload.
