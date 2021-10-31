@@ -175,10 +175,6 @@ void reconnect() {
     //if (client.connect(clientId.c_str())) {
     if (client.connect(device_id, mqtt_user, mqtt_pass)) {
       Serial.println("connected");
-      // Once connected, publish an announcement...
-      // client.publish(device_id, "hello world");
-      // ... and resubscribe
-      client.subscribe("inTopic");
     } else {
       Serial.print("failed, rc=");
       Serial.print(client.state());
